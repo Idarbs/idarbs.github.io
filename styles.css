@@ -78,6 +78,17 @@ img {
   white-space: nowrap;
   -webkit-overflow-scrolling: touch;
 }
+/* Style for the navigation title */
+.nav-title {
+  color: #ffffff;
+  font-family: "consolas", monospace;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-top: 8px;
+  text-decoration: underline;
+}
 
 /* Style the links like buttons */
 .button-group a {
@@ -87,7 +98,7 @@ img {
   padding: 10px 18px;
   border: 1px solid #ffffff;
   border-radius: 8px;
-  font-family: "consolas", sans-serif;
+  font-family: "consolas", monospace;
   font-size: 16px;
   display: inline-block;
   flex-shrink: 0;
