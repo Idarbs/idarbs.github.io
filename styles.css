@@ -54,17 +54,11 @@ img {
 /* Style for the content box */
 #box1 { 
   background-color: rgba(0, 0, 0, 0.5);
-  /* Semi-transparent black */
   padding: 15px;
-  /* Adds some padding inside the box */
   border-radius: 10px;
-  /* Adds border to box*/
   border: 1px solid rgb(255, 255, 255);
-  /* Rounds the corners of the box */
   max-width: 600px;
-  /* Limits the width of the box */
   margin: 20px auto;
-  /* Centers the box horizontally and adds vertical spacing */
   text-align: center;
 }
 
